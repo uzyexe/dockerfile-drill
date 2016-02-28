@@ -10,10 +10,9 @@ drill - get (debug) information out of DNS(SEC)
 
 ## Dockerfile
 
-[**Trusted Build**](https://registry.hub.docker.com/u/uzyexe/drill/)
+[**Trusted Build**](https://hub.docker.com/r/uzyexe/drill/)
 
-This Docker image is based on the [alpine:3.2
-](https://registry.hub.docker.com/_/alpine) base image.
+This Docker image is based on the [alpine:3.3](https://hub.docker.com/_/alpine/) base image.
 
 ## How to use this image
 
